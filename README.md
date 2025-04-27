@@ -7,9 +7,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2d21b35a-a8bb-4935-9d51-f41d8e1e865f" width="200"/>
   <img src="https://github.com/user-attachments/assets/76ca9da9-36e9-49ae-b885-77feae0801ef" width="200"/>
-  <img src="https://github.com/user-attachments/assets/d1f0629d-0570-4b11-a75e-2e545636476c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8794e123-c5b0-4f08-8beb-ee005ed65e6a" width="200"/>
 </p>
-
 
 Hello! I'm Haoxue Wang, founder of **LLMQuant**, an innovative AI community dedicated to building cutting-edge technologies for quantitative research.
 
