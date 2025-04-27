@@ -1,7 +1,10 @@
 # Haoxue Wang
 
 ### Mathematics @ Cambridge | Quant @ Millennium | AI @ HSBC | Research @ Microsoft | Founder @ LLMQuant
-![image](https://github.com/user-attachments/assets/2d21b35a-a8bb-4935-9d51-f41d8e1e865f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d21b35a-a8bb-4935-9d51-f41d8e1e865f" width="120"/>
+  <img src="https://github.com/user-attachments/assets/2d21b35a-a8bb-4935-9d51-f41d8e1e865f" width="120"/>
+</p>
 
 Hello! I'm Haoxue Wang, founder of **LLMQuant**, an innovative AI community dedicated to building cutting-edge technologies for quantitative research.
 
