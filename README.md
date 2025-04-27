@@ -14,8 +14,11 @@
 Hello! I'm Haoxue Wang, founder of **LLMQuant**, an innovative AI community dedicated to building cutting-edge technologies for quantitative research.
 
 ### 🌟 **What I'm Proud Of:**
-- 📍 Lived in 4 countries (each for over a year)
-- 🌍 Extensive travel experience across Europe
+- 🚀 Built a global community of 60,000+ followers
+- 💰 Achieved £2,000 profit in the first week of a product launch
+- 🌎 Lived in 4 countries (each for over a year)
+- ✈️ Traveled extensively across Europe
+
 
 ### 💬 **Contact Me:**
 - 📧 [haoxue@llmquant.com](mailto:haoxue@llmquant.com)
