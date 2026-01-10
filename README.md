@@ -1,6 +1,6 @@
 # Haoxue Wang
 
-### Mathematics @ Cambridge | Quant @ Millennium | AI @ HSBC | Research @ Microsoft 
+### Mathematics @ Cambridge | Quant @ Millennium | Research @ Microsoft 
 
 ## Founder @ LLMQuant（join us with 100,000 followers globally🙋）
 
