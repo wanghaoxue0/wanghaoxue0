@@ -2,7 +2,7 @@
 
 ### Mathematics @ Cambridge | Research @ Microsoft 
 
-## Committee @ LLMQuant（join us with 150,000 followers globally🙋）
+## Committee Member @ LLMQuant（join us with 150,000 followers globally🙋）
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2d21b35a-a8bb-4935-9d51-f41d8e1e865f" width="200"/>
@@ -10,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/8794e123-c5b0-4f08-8beb-ee005ed65e6a" width="200"/>
 </p>
 
-Hello! I'm Haoxue Wang, founder of **LLMQuant**, an innovative AI community dedicated to building cutting-edge technologies for quantitative research.
+Hello! I'm Haoxue Wang, committee member of **LLMQuant**, an innovative AI community dedicated to building cutting-edge technologies for quantitative research.
 
 ### 🌟 **What I'm Proud Of:**
 - 🚀 Built a global community of 150,000+ followers
