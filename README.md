@@ -2,7 +2,7 @@
 
 ### Mathematics @ Cambridge | Research @ Microsoft 
 
-## Founder @ LLMQuant（join us with 150,000 followers globally🙋）
+## Committee @ LLMQuant（join us with 150,000 followers globally🙋）
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2d21b35a-a8bb-4935-9d51-f41d8e1e865f" width="200"/>
